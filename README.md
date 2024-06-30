@@ -1,2 +1,3 @@
 # logjay.github.io
-githubpages site
+
+Welcome to the wonderous blank.
